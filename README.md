@@ -38,7 +38,7 @@ nano ~/.bashrc
 #### It will open a window for editing .bashrc, in the end of lines, add this this line: 
 ##### If you cloned the repo in home directory, then copy and paste it, otherwise add its path.
 ```
-export PATH="$PATH:$HOME/Bash-Script
+export PATH="$PATH:$HOME/Bash-Script"
 ```
 ##### Change `/path/to/script_director` to your repo directory.
 ```
